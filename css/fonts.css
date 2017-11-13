@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Proxima Nova Semibold';
+    src: url('../fonts/proxima nova semibold/ProximaNova-Semibold.eot');
+    src: url('../fonts/proxima nova semibold/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/proxima nova semibold/ProximaNova-Semibold.woff') format('woff'),
+    url('../fonts/proxima nova semibold/ProximaNova-Semibold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima Nova Regular';
+    src: url('../fonts/proxima nova/ProximaNova-Regular.eot');
+    src: url('../fonts/proxima nova/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/proxima nova/ProximaNova-Regular.woff') format('woff'),
+    url('../fonts/proxima nova/ProximaNova-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Tajan Pro';
+    src: url('../fonts/tajan pro/trajanp0-webfont.eot');
+    src: url('../fonts/tajan pro/trajanp0-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/tajan pro/trajanp0-webfont.woff') format('woff'),
+    url('../fonts/tajan pro/trajanp0-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
