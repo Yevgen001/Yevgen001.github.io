@@ -111,11 +111,28 @@ header{
 }
 .slaider{
     height: 516px;
-    background:url("../images/girl.png") no-repeat center top;
+    /*background:url("../images/girl.png") no-repeat center top;*/
     background-size: cover;
     position: relative;
     margin-top: 21px;
     position: relative;
+}
+.slaider-image{
+    position: absolute;
+    width:2300px ;
+    height: 516px;
+    background-size: cover;
+    z-index:0;
+}
+.flexslider{
+    position: absolute;
+    width:2300px ;
+    height: 516px;
+    background-size: cover;
+    z-index:0;
+}
+.flexslider li{
+    display: block;
 }
 /*.under_slider{*/
     /*width: 500px;*/
