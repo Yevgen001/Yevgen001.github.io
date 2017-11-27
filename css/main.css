@@ -1,0 +1,134 @@
+/*body{*/
+
+/*}*/
+/*#form{*/
+    /*!*width: 1115px;*!*/
+    /*height: auto;*/
+    /*background: #2675ad;*/
+    /*margin: 0 auto;*/
+
+/*}*/
+/*.form-group{*/
+    /*margin-top: 50px;*/
+    /*border-radius: 10px;*/
+    /*background: white;*/
+    /*!*width: 1014px;*!*/
+    /*height: 170px;*/
+    /*!*margin: 0 auto;*!*/
+    /*position: relative;*/
+/*}*/
+/*.form-group>div{*/
+    /*position: absolute;*/
+/*}*/
+/*.form-address{*/
+    /*top: 34px;*/
+    /*margin-right: 108px;*/
+    /*margin-left: 108px;*/
+
+/*}*/
+/*.form-address button{*/
+    /*width: 122px;*/
+    /*height: 34px;*/
+    /*background: #00a9d4;*/
+/*}*/
+/*.form-address input{*/
+    /*min-width: 100px;*/
+    /*width: 271px;*/
+/*}*/
+/*.description{*/
+    /*!*top:102px;*!*/
+    /*!*margin-bottom: 22px;*!*/
+    /*!*left: 126px;*!*/
+    /*margin-top: 18px;*/
+    /*padding: 0px;*/
+    /*display: inline-block;*/
+    /*!*background:blue;*!*/
+/*}*/
+/*.description input p{*/
+    /*padding: 0px;*/
+/*}*/
+
+/*.toggle.android {*/
+    /*border-radius: 0px;*/
+    /*width: 50px;*/
+
+/*}*/
+/*.toggle.android .toggle-handle {*/
+    /*width: 50px;*/
+    /*border-radius: 0px;*/
+/*}*/
+/*.whole_description{*/
+    /*width: 100%;*/
+    /*top:50px;*/
+
+    /*display: flex;*/
+    /*justify-content: space-around;*/
+    /*align-items: flex-start;*/
+
+
+/*}*/
+/*.character{*/
+    /*!*flex-basis: 100px;*!*/
+    /*width: 114px;*/
+    /*height: 52px;*/
+    /*!*background:blue;*!*/
+    /*display: inline-block;*/
+/*}*/
+/*.character>p{*/
+    /*text-align: center;*/
+    /*margin: 0 auto;*/
+/*}*/
+/*#first-form{*/
+   /*margin-top:50px;*/
+/*}*/
+/*.bottom-button button{*/
+    /*width: 185px;*/
+    /*height: 40px;*/
+    /*margin-bottom: 30px;*/
+    /*background: #074c83;*/
+
+/*}*/
+/*#remove{*/
+    /*width: 116px;*/
+/*}*/
+/*#Quote{*/
+    /*float: right;*/
+    /*background: red;*/
+/*}*/
+
+
+.toggle.android {
+border-radius: 0px;
+width: 50px;
+
+}
+.toggle.android .toggle-handle {
+width: 50px;
+border-radius: 0px;
+}
+
+body .tggl{
+
+    margin-top: 25px;
+}
+
+.buttonpanel {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+
+#parcel-frm, #pallet-frm {
+    margin-top: 10px;
+}
+
+#quote {
+
+   float: right;
+}
+#form{
+    background: #2675ad;
+    padding-top: 40px;
+    /*height: 100px;*/
+    display: inline-block;
+    margin: 0 auto;
+}
